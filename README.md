@@ -93,25 +93,25 @@ Git, Subversion (SVN)
 
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
-Ambiguous Requirements
+1. Ambiguous Requirements
 Unclear project requirements can lead to misunderstandings and misaligned expectations.
 •	Strategy: Conduct workshops to clarify requirements and maintain ongoing communication with stakeholders.
 Technical Debt
  Accumulation of shortcuts in code quality can complicate future development.
 •	Strategy: Implement regular code reviews and allocate time for refactoring to improve code quality over time.
-Time Management
+2. Time Management
 Balancing project deadlines with quality can lead to stress and burnout.
 •	Strategy: Use Agile methodologies to manage work in smaller increments and prioritize tasks based on urgency.
  Keeping Up with Technology
-Rapid technological advancements make it hard to stay current with tools and languages.
+3. Rapid technological advancements make it hard to stay current with tools and languages.
 •	Strategy: Dedicate time for continuous learning through courses and engage with mentors for knowledge sharing.
-Debugging and Testing Issues
+4. Debugging and Testing Issues
 Finding and fixing bugs can be time-consuming in complex systems.
 •	Strategy: Implement automated testing to catch issues early and utilize debugging tools for efficient problem resolution.
-Collaboration Challenges
+5. Collaboration Challenges
 Conflicts and miscommunication can arise within teams.
 •	Strategy: Promote clear communication and define roles to avoid confusion and ensure accountability.
-Scope Creep
+6. Scope Creep
 Uncontrolled changes or additions to project scope can derail timelines.
 •	Strategy: Establish a formal change control process and maintain clear documentation to manage project scope effectively.
 
